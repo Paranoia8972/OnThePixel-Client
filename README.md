@@ -15,7 +15,7 @@ Welcome to the OnThePixel.net Minecraft Client repository! This Java-based proje
 
    Example directory structure:
    ```
-   /minecraft
+   /.minecraft
    └── versions
        └── PixelClient-1.20.1
            ├── PixelClient-1.20.1.jar
